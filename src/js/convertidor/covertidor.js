@@ -14,5 +14,7 @@ export function decimalAMaya(n) {
             niveles.push(puntos + "<br>" + barras);
         }
     }
+
+    
     return niveles.reverse(); 
 }
